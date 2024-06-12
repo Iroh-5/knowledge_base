@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "0b2d287a3b107ab5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1ade9239a7b908b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccf821b5b088eaca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Компьютерные науки/Криптовалюта/Цифровая валюта.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1688362ac125a76",
+    "type": "split",
+    "children": [
+      {
+        "id": "09bc8f8d2fc0b8a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77e1d7e3e5b69c72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c222e7ec9dc8820",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b940c74cf2ed29c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb9cb9d6bdc97c47",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5826cd546f4c07f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "705a4077cc23bd21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Компьютерные науки/Криптовалюта/Цифровая валюта.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7bfa37b897c55ede",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Компьютерные науки/Криптовалюта/Цифровая валюта.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24027b04672f119a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5d825124749fab2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Компьютерные науки/Криптовалюта/Цифровая валюта.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "ccf821b5b088eaca",
+  "lastOpenFiles": [
+    "Компьютерные науки/Криптовалюта/Криптовалюта.md",
+    "Компьютерные науки/Криптовалюта/Консенсус (криптография).md",
+    "Компьютерные науки/Криптовалюта/Биткоин.md",
+    "Компьютерные науки/Многопоточное программирование/Примитивы синхронизации.md",
+    "Компьютерные науки/Определения и термины/JiT.md",
+    "Компьютерные науки/Фундаментальное/Представление чисел в программе.md",
+    "Определения и термины/La petite mort.md",
+    "Компьютерные науки/Определения и термины",
+    "Определения и термины",
+    "Компьютерные науки/Многопоточное программирование",
+    "Компьютерные науки/Криптовалюта/Цифровая валюта.md",
+    "templates/Заметка.md",
+    "templates",
+    "Templates",
+    "План диплома.md",
+    "Компьютерные науки/Фундаментальное",
+    "Компьютерные науки/Криптовалюта",
+    "Компьютерные науки"
+  ]
+}
